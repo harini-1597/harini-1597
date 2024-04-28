@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
 <h3 align="center">Frontend • AI • Web Development</h3>
 
+- 🔭 I’m currently working on [A Tour Of JSON Schema](https://github.com/harini-1597/json-schema-tour)
+
+- 🌱 I’m currently learning **Django, Flask**
+
+- 🤝 I’m looking for help with **Resume Building**
+
+- 💬 Ask me about **Leetcode**
+
+- ⚡ Fun fact **Love sitcoms**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harini-mohan-a3526027a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harini-mohan-a3526027a" height="30" width="40" /></a>

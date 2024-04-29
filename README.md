@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
 <h3 align="center">Frontend • AI • Web Development</h3>
+
 # 💫 About Me:
 
 - 🔭 I’m currently working on [A Tour Of JSON Schema](https://github.com/harini-1597/json-schema-tour)

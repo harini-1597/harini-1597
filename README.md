@@ -22,5 +22,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harini-1597&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harini-1597&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 😎 Reach Out:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Achintya-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achintya-singh-4b4563200/)](https://www.linkedin.com/in/harini-mohan-a3526027a/)
+[![Gmail Badge](https://img.shields.io/badge/-achintya22052000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achintya22052000@gmail.com)](mailto:thisisharinim@gmail.com)
 ---
 [![](https://visitcount.itsvg.in/api?id=harini-1597&icon=0&color=0)](https://visitcount.itsvg.in)

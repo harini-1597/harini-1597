@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [A Tour Of JSON Schema](https://github.com/harini-1597/json-schema-tour)
+- 🔭 I’m currently working on [Relation-AI](https://github.com/harini-1597/chat-analyzer)
 
 - 🌱 I’m currently learning **Django, Flask**
 
